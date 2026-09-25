@@ -1,3 +1,3 @@
 <?php
-  echo "Selamat Belajar Pemrograman WeB";
+  echo "Selamat Belajar Pemrograman WeB dari repo";
 ?>
